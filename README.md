@@ -1,6 +1,6 @@
 This PowerBI repository contains three distinct dashboards focused on HR, Sales, and Customer Analysis, as outlined below:
 
-HR Analytics Dashboard : 
+HR Analytics Dashboard (HR ANALYTICS.pbix) : 
 
 This HR Analytics dashboard provides comprehensive insights into workforce data, helping HR teams make data-driven decisions. It is divided into three pages:
 
@@ -16,7 +16,7 @@ Page 3: Page1 (Turnover and Retention Analysis)
 A screenshot of the dashboard is included below for a visual overview.
 ![image](https://github.com/user-attachments/assets/2ea9fecd-ac1a-41a5-8668-6e8714cd0db2)
 
-Sales (JS Smart) Dashboard: 
+Sales (JS Smart) Dashboard (JS Smart Dashboard.pbix): 
 
 The JS Smart Dashboard provides a comprehensive analysis of sales performance for the company, offering detailed insights into various key metrics:
 Total Sales, Total Profit, Total Quantity, and Total Order Count, Order Dates and Ship Dates, Sales by Sub-category, Sales and Profit by Year and Quarter, Percent Sales by Ship Mode, Sales and Profit by Region, Sales Details by Customer
@@ -28,7 +28,7 @@ A screenshot of the dashboard is included below for a visual overview.
 ![image](https://github.com/user-attachments/assets/fc2b6b88-7a8d-4226-b882-21c575ba8874)
 
 
-Customer (Bank) Analysis Dashboard
+Customer (Bank) Analysis Dashboard (JS Bank dashboard.pbix):
 
 This Bank Customer Analysis Dashboard provides an in-depth view of the customer base, helping to analyze customer demographics and financial behavior. The dashboard includes:
 Total Customers and Total Balance, Top Customer by balance, New Customers Added by Month, Customer Distribution by Region, Customer Age Segmentation, Balance Distribution, Gender Split, Job Classification of Customers (White Collar, Blue Collar, Other)
