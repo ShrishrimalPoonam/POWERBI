@@ -1,8 +1,12 @@
+<div align = "justify">
 This PowerBI repository contains three distinct dashboards focused on HR, Sales, and Customer Analysis, as outlined below:
-
-**HR Analytics Dashboard (HR ANALYTICS.pbix):** 
+</div>
 
 <div align = "justify">
+_
+  
+**HR Analytics Dashboard (HR ANALYTICS.pbix):** 
+
 This HR Analytics dashboard provides comprehensive insights into workforce data, helping HR teams make data-driven decisions. It is divided into three pages:
 
 **Page 1: Count (Employee Count Overview):**
