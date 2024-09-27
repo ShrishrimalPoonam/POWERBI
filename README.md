@@ -19,7 +19,7 @@ A screenshot of the dashboard is included below for a visual overview.
 ![image](https://github.com/user-attachments/assets/2ea9fecd-ac1a-41a5-8668-6e8714cd0db2)
 </div>
 
-**Sales (JS Smart) Dashboard (JS Smart Dashboard.pbix):*** 
+**Sales (JS Smart) Dashboard (JS Smart Dashboard.pbix):**
 
 <div align = "justify">
 The JS Smart Dashboard provides a comprehensive analysis of sales performance for the company, offering detailed insights into various key metrics:
